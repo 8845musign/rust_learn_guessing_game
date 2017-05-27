@@ -1,0 +1,4 @@
+[root]
+name = "rust_learn_guessing_game"
+version = "0.1.0"
+
